@@ -1,0 +1,3 @@
+# VALIDATION — error-correcting-alignment
+
+Scaffold with executable stage stubs. Expand measured paths before claims.
